@@ -8,7 +8,7 @@
 
 using namespace std;
 
-string inPath = "./data/";
+string inPath = "./data/FB15k/";
 
 int *lefHead, *rigHead;
 int *lefTail, *rigTail;
